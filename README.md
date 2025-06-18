@@ -16,5 +16,13 @@ PhishGuard is a powerful Safari browser extension designed to protect users from
 - Leverages mock data for initial testing with plans for API integration  
 - Focus on security best practices and privacy compliance  
 
-## NOTE:
--  Currently it is for developers only. Developers can use there personal API key to test out the app.
+## Screenshots
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/b351658b-b074-4338-894a-2d8ed516e0ef" width="400"/>
+  <img src="https://github.com/user-attachments/assets/3da95b4d-57cd-4988-b86d-0868a6a35a85" width="400"/>
+</p>
+
+## Note
+
+- Currently it is for developers only. Developers can use their personal API key to test out the app.
